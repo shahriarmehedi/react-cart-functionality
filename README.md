@@ -1,4 +1,4 @@
-# H1 Project Name: Hire Web Developer
+# Project Name: Hire Web Developer (REACT CART FUNCTIONALITY)
 
 Live SIte Link: https://shahriar-react-assignment.netlify.app/
 
